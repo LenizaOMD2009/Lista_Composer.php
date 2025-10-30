@@ -1,0 +1,15 @@
+{
+    "name": "root/nginx",
+    "autoload": {
+        "psr-4": {
+            "app\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "leniza mendes",
+            "email": "lenizaomnd@gmail.com"
+        }
+    ],
+    "require": {}
+}
